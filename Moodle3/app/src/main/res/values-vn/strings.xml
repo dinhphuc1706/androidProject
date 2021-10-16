@@ -22,9 +22,9 @@
     <string name="if_address">Địa Chỉ: Hà Nội</string>
     <string name="if_major">Chuyên Ngành: Thông tin và Công nghệ</string>
     <string name="if_class">Lớp: B11</string>
-    <string name="mc_mad">Mobile Application Development</string>
-    <string name="mc_wad">Web Application Development</string>
-    <string name="mc_mladm">Machine Learning and Data Mining</string>
-    <string name="mc_ad">Advanced Databases</string>
+    <string name="mc_mad"><a href="https://moodle.usth.edu.vn/course/view.php?id=305">Mobile Application Development</a></string>
+    <string name="mc_wad"><a href="https://moodle.usth.edu.vn/course/view.php?id=298">Web Application Development</a></string>
+    <string name="mc_mladm"><a href="https://moodle.usth.edu.vn/course/view.php?id=426">Machine Learning and Data Mining</a></string>
+    <string name="mc_ad"><a href="https://moodle.usth.edu.vn/course/view.php?id=491">Advanced Databases</a></string>
 
 </resources>
