@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Item" android:id="@+id/fisrtFragment"  android:icon="@drawable/ic_home" />
+    <item android:title="Person" android:id="@+id/secondFragment" android:icon="@drawable/ic_person"/>
+    <item android:title="My Courses" android:id="@+id/thirdFragment"  android:icon="@drawable/icbook"/>
+    <item android:title="Menu" android:id="@+id/fouthFragment"  android:icon="@drawable/icmenu"/>
+
+
+
+</menu>
