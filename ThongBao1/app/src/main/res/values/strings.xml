@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThongBao1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notifications_header">USTH Notifications</string>
+    <string name="notifications_date">18/10 - 14:00</string>
+    <string name="notifications_1">Dear students,<br>
+As you all know, we warmly welcomed Prof. Jean\-Marc LAVEST to the USTH family as our new Principal Rector from October 1st, 2021.
+        In the Open letter he wrote to you, he expressed his strong belief in current students\' professional life, and expected the development of associations in our university.<br>
+Please find the Open letter from our Principal Rector in the attachment.<br>
+
+        Best regards.</br></br></br></string>
+    <string name="notifications_header2">Moodle Notifications</string>
+    <string name="notifications_date2">17/10 - 20:00</string>
+    <string name="notifications_2">Notification: Moodle system upgrade on 17/10/2021 and downtime of services <br>
+        Moodle will have system update from 20:00 to 22:00 17/10/2021 - Sunday which caused the unavailability of services. Systems will be back online afther this duration.
+    </br></string>
+</resources>
