@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Moodle Information</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Calendar events</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="tab_layout_1">Site Home</string>
-    <string name="tab_layout_2">Dashboard</string>
-</resources>
